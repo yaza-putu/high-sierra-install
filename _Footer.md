@@ -1,1 +1,1 @@
-Crafted with love from https://lab.firstplato.com
+Crafted with love by [ipang-dwi](https://facebook.com/ipang-dwi) from https://lab.firstplato.com
