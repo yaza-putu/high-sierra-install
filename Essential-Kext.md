@@ -5,7 +5,7 @@ Untuk mempercepat installasi lakukan hal ini. Delete semua file kext yang tidak 
 Fungsi kext tersebut :
 - ApplePS2SmartTouchpad : mengaktifkan touchpad laptop
 - FakeSMC : simulator SMC agar PC/Laptop tidak dideteksi sebagai PC/Laptop Non Apple
-- Lilu : almost AIO plugin kext, ke depannya semua kext penting akan menyatu dengan Lilu
+- Lilu : almost AIO plugin kext, kedepannya semua kext penting akan menyatu dengan Lilu
 - WhatEverGreen : patch graphic card Intel/AMD/NVIDIA
 
 > Happy hackintoshing..
