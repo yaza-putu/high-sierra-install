@@ -12,5 +12,6 @@ Fungsinya agar tombol CTRL berfungsi layaknya ketika di Windows dan Linux, karen
 * Bila memakai mouse dengan tipe 6D atau 6 tombol ke atas. Bisa mempergunakan SensibleSideButtons App untuk mengaktifkan tombol Back, Next, Fire, dll pada mouse.
 * Bila kamu memakai PC/Laptop dengan resource RAM yang terbatas atau kurang dari 8GB, pada MacOS High Sierra, pastikan untuk melakukan klik kanan di App yang akan diclose pada Dock, pilih Quit. Karena pada MacOS, App yang exit dari window App nya, masih akan tetap standby di background dan memakan resource, bila tidak di-Quit dari Dock. Ditandai dengan titik putih di bawah icon App pada Dock, pada App yang masih standby.
 * Install Brew, App ini sangat bermanfaat untuk menginstall App opensource.
+* Backup berkala system mu, bisa dengan App bawaan MacOS seperti Time Machine, atau third party App seperti AOMEI, MiniTool, Paragon, Clonezilla, dll. Untuk menghindari bila terjadi trouble suatu saat, terutama saat setelah update.
 
 > Lainnya akan diupdate, happy hackintoshing... :) 
