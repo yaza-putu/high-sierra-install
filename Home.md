@@ -9,3 +9,9 @@ Repo ini dibuat untuk memudahkan bagi yang ingin mempelajari dan mencoba mengins
 * Untuk mempercepat proses installasi <a href="https://github.com/ipang-dwi/efi-high-sierra/wiki/Essential-Kext" target="blank">lakukan ini</a>.
 * Disable secure boot pada BIOS/UEFI, dan boot dari USB.
 * Lakukan proses installasi pada PC/Laptop.
+* Saat installasi pastikan untuk tidak terkoneksi dengan internet, dan tidak perlu setup jaringan, baik LAN maupun WAN.
+* Saat create user baru, masukkan password 1 karakter saja. Fungsinya agar saat butuh installasi kext atau app, atau akses lain yang memerlukan password, tidak ribet ketik panjang-panjang. Tapi setelah setup selesai, bisa diganti password sepanjang-panjangnya.
+* Mengaktifkan Wifi Atheros AR9485 <a href="https://github.com/ipang-dwi/efi-high-sierra/wiki/Mengaktifkan-Wifi-Atheros-AR9485-di-MacOS-High-Sierra-10.13.6---FullSpeed" target="blank">lakukan ini</a>.
+* Terbiasa memakai Windows atau Linux, <a href="https://github.com/ipang-dwi/efi-high-sierra/wiki/Nyamankan-diri-di-MacOS" target="blank">lakukan ini</a> agar kalian nyaman di MacOS.
+
+> Happy Hackintoshing... :)
