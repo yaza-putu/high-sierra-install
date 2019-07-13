@@ -1,3 +1,5 @@
+[![FIRSTPLATO](https://www.firstplato.com/img/logo.png)](https://www.firstplato.com)
+
 Welcome to the efi-high-sierra wiki! Craft a perfect Hackintosh for daily used.
 
 ![My Asus X45C Hackintosh](https://raw.githubusercontent.com/ipang-dwi/efi-high-sierra/master/ss/0.png)
