@@ -1,3 +1,4 @@
+![My Asus X45C Hackintosh](https://raw.githubusercontent.com/ipang-dwi/efi-high-sierra/master/ss/0.png)
 Welcome to the efi-high-sierra wiki! Craft a perfect Hackintosh for daily used.
 > masih dalam proses penulisan yak, jadi bila ada yang belum lengkap atau sempurna, harap dimaklumi.. meskipun untuk membangun Hackintosh PC/Laptop, namun akan disarankan memakai tools dan kext yang free dan opensource..
 
