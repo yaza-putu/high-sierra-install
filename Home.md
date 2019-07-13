@@ -1,5 +1,7 @@
-![My Asus X45C Hackintosh](https://raw.githubusercontent.com/ipang-dwi/efi-high-sierra/master/ss/0.png)
 Welcome to the efi-high-sierra wiki! Craft a perfect Hackintosh for daily used.
+
+![My Asus X45C Hackintosh](https://raw.githubusercontent.com/ipang-dwi/efi-high-sierra/master/ss/0.png)
+
 > masih dalam proses penulisan yak, jadi bila ada yang belum lengkap atau sempurna, harap dimaklumi.. meskipun untuk membangun Hackintosh PC/Laptop, namun akan disarankan memakai tools dan kext yang free dan opensource..
 
 Repo ini dibuat untuk memudahkan bagi yang ingin mempelajari dan mencoba menginstall Mac OS High Sierra pada PC atau Laptop non Apple. BIsa juga diterapkan pada versi sebelum, maupun sesudahnya, semua langkah-langkahnya sama. Hanya perlu penyesuaian kextnya saja.
