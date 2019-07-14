@@ -29,4 +29,6 @@ Repo ini dibuat untuk memudahkan bagi yang ingin mempelajari dan mencoba mengins
 * Untuk mengaktifkan Wifi Atheros AR9485 <a href="https://github.com/ipang-dwi/efi-high-sierra/wiki/Mengaktifkan-Wifi-Atheros-AR9485-di-MacOS-High-Sierra-10.13.6---FullSpeed" target="blank">lakukan ini</a>.
 * Terbiasa memakai Windows atau Linux, <a href="https://github.com/ipang-dwi/efi-high-sierra/wiki/Nyamankan-diri-di-MacOS" target="blank">lakukan ini</a> agar kalian nyaman di MacOS.
 
+[![FIRSTPLATO](https://www.firstplato.com/img/logo.png)](https://www.firstplato.com)
+
 > Happy Hackintoshing... :)
