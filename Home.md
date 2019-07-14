@@ -26,7 +26,8 @@ Repo ini dibuat untuk memudahkan bagi yang ingin mempelajari dan mencoba mengins
 * Setelah proses installasi selesai, saatnya menginstall semua kext yang diperlukan.
 * Install DPCI Manager, untuk mengetahui semua detail setiap hardware yang kamu pakai.
 * Silahkan install satu-satu kext yang dibutuhkan sesuai dengan vendor dan type hardware yang kamu pakai, search kextnya di Google, atau bisa juga tanya di grup FB Forum Hackintosh Indonesia.
-* Untuk mengaktifkan Wifi Atheros AR9485 <a href="https://github.com/ipang-dwi/efi-high-sierra/wiki/Mengaktifkan-Wifi-Atheros-AR9485-di-MacOS-High-Sierra-10.13.6---FullSpeed" target="blank">lakukan ini</a>.
+* Kext apa saja yang dipakai di Asus X45C bisa dilihat [di sini](https://github.com/ipang-dwi/efi-high-sierra/wiki/Kext-Asus-X45C---High-Sierra).
+* Untuk mengaktifkan Wifi Atheros AR9485 pada Asus X45C <a href="https://github.com/ipang-dwi/efi-high-sierra/wiki/Mengaktifkan-Wifi-Atheros-AR9485-di-MacOS-High-Sierra-10.13.6---FullSpeed" target="blank">lakukan ini</a>.
 * Terbiasa memakai Windows atau Linux, <a href="https://github.com/ipang-dwi/efi-high-sierra/wiki/Nyamankan-diri-di-MacOS" target="blank">lakukan ini</a> agar kalian nyaman di MacOS.
 
 [![FIRSTPLATO](https://www.firstplato.com/img/logo.png)](https://www.firstplato.com)
