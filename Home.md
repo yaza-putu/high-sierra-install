@@ -29,6 +29,7 @@ Repo ini dibuat untuk memudahkan bagi yang ingin mempelajari dan mencoba mengins
 * Kext apa saja yang dipakai di Asus X45C bisa dilihat [di sini](https://github.com/ipang-dwi/efi-high-sierra/wiki/Kext-Asus-X45C---High-Sierra).
 * Untuk mengaktifkan Wifi Atheros AR9485 pada Asus X45C <a href="https://github.com/ipang-dwi/efi-high-sierra/wiki/Mengaktifkan-Wifi-Atheros-AR9485-di-MacOS-High-Sierra-10.13.6---FullSpeed" target="blank">lakukan ini</a>.
 * Untuk mengaktifkan Backlight atau setting brightness [lakukan ini](https://github.com/ipang-dwi/efi-high-sierra/wiki/Mengaktifkan-Backlight-atau-setting-brightness).
+* Untuk mengaktifkan Audio [lakukan ini](https://github.com/ipang-dwi/efi-high-sierra/wiki/Mengaktifkan-Audio-dengan-AppleALC-di-MacOS).
 * Terbiasa memakai Windows atau Linux, <a href="https://github.com/ipang-dwi/efi-high-sierra/wiki/Nyamankan-diri-di-MacOS" target="blank">lakukan ini</a> agar kalian nyaman di MacOS.
 
 [![FIRSTPLATO](https://www.firstplato.com/img/logo.png)](https://www.firstplato.com)
