@@ -25,7 +25,7 @@ Repo ini dibuat untuk memudahkan bagi yang ingin mempelajari dan mencoba mengins
 **Pasca Install**
 * Setelah proses installasi selesai, saatnya menginstall semua kext yang diperlukan.
 * Install DPCI Manager, untuk mengetahui semua detail setiap hardware yang kamu pakai.
-* Silahkan install satu-satu kext yang dibutuhkan sesuai dengan vendor dan type hardware yang kamu pakai, search kextnya di Google, atau bisa juga tanya di grup FB Forum Hackintosh Indonesia.
+* Silahkan install satu-satu kext yang dibutuhkan sesuai dengan vendor dan type hardware yang kamu pakai, search kextnya di Google, atau bisa juga tanya di grup FB [Forum Hackintosh Indonesia](https://www.facebook.com/groups/259810757548439/).
 * Kext apa saja yang dipakai di Asus X45C bisa dilihat [di sini](https://github.com/ipang-dwi/efi-high-sierra/wiki/Kext-Asus-X45C---High-Sierra).
 * Untuk mengaktifkan Wifi Atheros AR9485 pada Asus X45C <a href="https://github.com/ipang-dwi/efi-high-sierra/wiki/Mengaktifkan-Wifi-Atheros-AR9485-di-MacOS-High-Sierra-10.13.6---FullSpeed" target="blank">lakukan ini</a>.
 * Untuk mengaktifkan Backlight atau setting brightness [lakukan ini](https://github.com/ipang-dwi/efi-high-sierra/wiki/Mengaktifkan-Backlight-atau-setting-brightness).
