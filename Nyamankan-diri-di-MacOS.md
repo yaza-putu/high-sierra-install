@@ -5,13 +5,13 @@ Terbiasa dengan Windows atau Linux, lakukan ini agar kalian nyaman di MacOS :
 
 ![](https://raw.githubusercontent.com/ipang-dwi/efi-high-sierra/master/ss/key0.png)
   
-Fungsinya agar tombol CTRL berfungsi layaknya ketika di Windows dan Linux, karena seperti yang kita tahu bersama, keyboard Apple itu berbeda dengan keyboard umumnya.
+* Fungsinya agar tombol CTRL berfungsi layaknya ketika di Windows dan Linux, karena seperti yang kita tahu bersama, keyboard Apple itu berbeda dengan keyboard umumnya.
 
 * Lalu lakukan mapping tombol berikut :  
 
 ![](https://raw.githubusercontent.com/ipang-dwi/efi-high-sierra/master/ss/key2.png)
 
-Fungsinya untuk mapping tombol PrintScreen. Untuk tombol printscreen, tekan saja langsung tombol printscreen di laptop/PC. Untuk tombol selected area, apaki saja CTRL+tombol printscreen. Terakhir copy selected area, pakai saja Logo Windows+tombol preintscreen.
+* Fungsinya untuk mapping tombol PrintScreen. Untuk tombol printscreen, tekan saja langsung tombol printscreen di laptop/PC. Untuk tombol selected area, apaki saja CTRL+tombol printscreen. Terakhir copy selected area, pakai saja Logo Windows+tombol preintscreen.
 
 * Pada saat di Desktop maupun di Finder App, tombol delete pada keyboard tidak berfungsi. Jadi bila ingin menghapus file atau folder, lakukan dengan klik kanan selected file atau folder, lalu pilih Move to Trash. Bisa juga dengan menekan tombol CTRL+Backspace.
 * Pastikan memakai AppleAlc untuk kext audio, agar bisa menikmati sensasi codec Audio Apple. Kecuali jika tetap tidak bisa dan harus memakai kext audio lain seperti VoodooHDA.
