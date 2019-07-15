@@ -20,7 +20,7 @@ Repo ini dibuat untuk memudahkan bagi yang ingin mempelajari dan mencoba mengins
 * Karena versi yang dipakai ini adalah versi 10.13.6, maka secara otomatis format yang dipakai untuk partisinya adalah APFS. Meski pada saat installasi, kamu memilih jenis partisi HFS+, tetap akan diformat APFS oleh installernya. 
 * Saat installasi pastikan untuk tidak terkoneksi dengan internet, dan tidak perlu setup jaringan, baik LAN maupun WAN.
 * Saat create user baru, masukkan password 1 karakter saja. Fungsinya agar saat butuh installasi kext atau app, atau akses lain yang memerlukan password, tidak ribet ketik panjang-panjang. Tapi setelah setup selesai, bisa diganti password sepanjang-panjangnya.
-* Jika ada message warning atau error, atau terhenti di tengah jalan ketika installasi, silahkan post masalahnya di grup FB Forum Hackintosh Indonesia.
+* Jika ada message warning atau error, atau terhenti di tengah jalan ketika installasi, silahkan post masalahnya di grup [FB Forum Hackintosh Indonesia](https://www.facebook.com/groups/259810757548439/).
 
 **Pasca Install**
 * Setelah proses installasi selesai, saatnya menginstall semua kext yang diperlukan.
