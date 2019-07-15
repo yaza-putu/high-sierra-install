@@ -13,6 +13,7 @@ Fungsinya agar tombol CTRL berfungsi layaknya ketika di Windows dan Linux, karen
 
 Fungsinya untuk mapping tombol PrintScreen. Untuk tombol printscreen, tekan saja langsung tombol printscreen di laptop/PC. Untuk tombol selected area, apaki saja CTRL+tombol printscreen. Terakhir copy selected area, pakai saja Logo Windows+tombol preintscreen.
 
+* Pada saat di Desktop maupun di Finder App, tombol delete pada keyboard tidak berfungsi. Jadi bila ingin menghapus file atau folder, lakukan dengan klik kanan selected file atau folder, lalu pilih Move to Trash. Bisa juga dengan menekan tombol CTRL+Backspace.
 * Pastikan memakai AppleAlc untuk kext audio, agar bisa menikmati sensasi codec Audio Apple. Kecuali jika tetap tidak bisa dan harus memakai kext audio lain seperti VoodooHDA.
 * Install codec atau third party App yang menyertakan codec di dalamnya. Karena MacOS menyertakan dukungan codec yang terbatas di dalam installernya. Bisa memakai VLC yang free.
 * Bila memakai mouse dengan tipe 6D atau 6 tombol ke atas. Bisa mempergunakan SensibleSideButtons App untuk mengaktifkan tombol Back, Next, Fire, dll pada mouse.
