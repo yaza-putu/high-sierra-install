@@ -31,6 +31,7 @@ Repo ini dibuat untuk memudahkan bagi yang ingin mempelajari dan mencoba mengins
 * Untuk mengaktifkan Backlight atau setting brightness [lakukan ini](https://github.com/ipang-dwi/efi-high-sierra/wiki/Mengaktifkan-Backlight-atau-setting-brightness).
 * Untuk menggunakan tombol F5 dan F6, sebagai tombol Brightness Up and Down, [lakukan ini](https://github.com/ipang-dwi/efi-high-sierra/wiki/Remapping-tombol-Brightness-Up-and-Down-di-MacOS).
 * Untuk mengaktifkan Audio [lakukan ini](https://github.com/ipang-dwi/efi-high-sierra/wiki/Mengaktifkan-Audio-dengan-AppleALC-di-MacOS).
+* Untuk mengakses dan transfer data ke perangkat Android di MacOS, [lakukan ini](https://github.com/ipang-dwi/efi-high-sierra/wiki/File-transfer-Android-di-MacOS).
 * Terbiasa memakai Windows atau Linux, <a href="https://github.com/ipang-dwi/efi-high-sierra/wiki/Nyamankan-diri-di-MacOS" target="blank">lakukan ini</a> agar kalian nyaman di MacOS.
 
 [![FIRSTPLATO](https://www.firstplato.com/img/logo.png)](https://www.firstplato.com)
