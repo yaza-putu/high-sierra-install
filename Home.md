@@ -10,7 +10,7 @@ Repo ini dibuat untuk memudahkan bagi yang ingin mempelajari dan mencoba mengins
 
 **Pra Install**
 * Pastikan PC/Laptop kamu memenuhi [Minimum Requirements](https://github.com/ipang-dwi/efi-high-sierra/wiki/Minimum-Requirements). Pada repo ini, dipergunakan media laptop Asus X45C.
-* Download installer MacOS yang sudah include clover bootloader di [sini](https://files.zhih.me/macOS/). Dan buat bootable USB dengan flashdisk minimal 8GB, dengan menggunakan [Transmac](https://www.acutesystems.com/scrtm.htm). Caranya baca [di sini](https://github.com/ipang-dwi/efi-high-sierra/wiki/Cara-create-bootable-installer-MacOS-dengan-Transmac).
+* Download installer MacOS yang sudah include clover bootloader di [sini](https://mirrors.dtops.cc/iso/MacOS/daliansky_macos/10.13/). Dan buat bootable USB dengan flashdisk minimal 8GB, dengan menggunakan [Transmac](https://www.acutesystems.com/scrtm.htm). Caranya baca [di sini](https://github.com/ipang-dwi/efi-high-sierra/wiki/Cara-create-bootable-installer-MacOS-dengan-Transmac).
 * Replace isi dari partisi EFI dengan file release EFI dari repo ini.
 * Buat file config untuk Clover dengan [cara ini](https://github.com/ipang-dwi/efi-high-sierra/wiki/Membuat-file-config.plist-untuk-Clover).
 * Untuk mempercepat proses installasi <a href="https://github.com/ipang-dwi/efi-high-sierra/wiki/Essential-Kext" target="blank">lakukan ini</a>.
