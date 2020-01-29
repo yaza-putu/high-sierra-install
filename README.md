@@ -7,6 +7,8 @@ https://github.com/ipang-dwi/efi-high-sierra/wiki
 
 EFI file ada di repo ini
 
+untuk yang mencari AppleALC Resource layout id <a href="https://github.com/acidanthera/AppleALC/tree/master/Resources" >Apple ALC Resource</a>
+
 note : set nvidia enable (pc ini memakai vga nvidia 710)
 # 2. Setelah Berhasil install mac, selanjutnya install clover di hdd/ssd, kebetulan pc ini bootnya legacy(bios legacy)
 <p>configurasi clovernya seperti di bawah ini :</p>
